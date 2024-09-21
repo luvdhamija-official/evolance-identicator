@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: identicator
+server:
+    port: 8080
+springdoc:
+    swagger-ui:
+        path: /swagger-ui.html
