@@ -24,5 +24,3 @@ This service provides authentication and authorization functionalities utilizing
 - **JWT (JSON Web Tokens)**: For secure token handling.
 - **MySQL/PostgreSQL**: Relational database to store user credentials and tokens.
 - **Redis (Optional)**: For token caching and quick access.
-
----
